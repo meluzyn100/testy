@@ -31,3 +31,4 @@ end
 
 # plot!(circle(sun,0,sr))
 # scatter!([0],[0],  markershape = :hexagon,)
+println("tal")
