@@ -9,7 +9,7 @@ function circle(x,y,r)
     return x .+ r*cos.(theta), y .+ r*sin.(theta)
 end
 
-a=	1.49598261*10^11 #pól os wie
+a=	1.49598261*10^11 #p
 e = 0.01671123
 theta = LinRange(0,2*pi,360)
 
