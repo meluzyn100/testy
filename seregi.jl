@@ -28,5 +28,6 @@ if MODE == 0
         plot!(xs, sn[n, :], legend = nothing) |> display
     end
 end
+print("hello")
 
 
